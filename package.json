@@ -1,13 +1,13 @@
 {
-  "name": "usecontext-makes-context",
+  "name": "dreamy-cookies-qoqtz",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "react": "16.7.0-alpha.2 - next",
-    "react-dom": "16.7.0-alpha.2 - next",
-    "react-scripts": "2.0.3"
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "react-scripts": "^3.3.0"
   },
   "devDependencies": {},
   "scripts": {
